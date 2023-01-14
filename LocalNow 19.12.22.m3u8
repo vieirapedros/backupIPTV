@@ -1,0 +1,939 @@
+#EXTM3U
+#EXTINF:120,Local Now Chicago
+https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/dfc21a5ae16ce638/playlist.m3u8
+#EXTINF:0,Very Orlando by WESH 2-TV
+https://linear-103.frequency.stream/dist/localnow/103/hls/master/playlist.m3u8
+#EXTINF:0,WFTV (ABC) News 9 Orlando FL
+https://amg00327-coxmediagroup-wftvbreaking-ono-nf6r8.amagi.tv/playlist.m3u8
+#EXTINF:0,WSOC (ABC) News 9 Charlotte NC
+https://amg00327-coxmediagroup-wsocbreaking-ono-8j7a8.amagi.tv/playlist.m3u8
+#EXTINF:0,News 12 New York
+https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
+#EXTINF:0,Very South Florida by WPBF 25
+https://linear-114.frequency.stream/dist/localnow/114/hls/master/playlist.m3u8
+#EXTINF:0,WPTV (NBC) News 5 West Palm Beach FL
+https://ewscripps-wptv-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Very Boston by WCVB
+https://linear-102.frequency.stream/dist/localnow/102/hls/master/playlist.m3u8
+#EXTINF:0,WFXT (FOX) News 25 Boston MA
+https://amg00327-coxmediagroup-wfxtbreaking-ono-n5e03.amagi.tv/playlist.m3u8
+#EXTINF:0,Very New Hampshire by WMUR
+https://linear-33.frequency.stream/dist/localnow/33/hls/master/playlist.m3u8
+#EXTINF:0,Plymouth Rock TV The Best of New England
+https://na.linear.zype.com/9477c80e-438b-41a3-b2c5-05b028bfb0b2/b3e57cea-b610-45ff-a31e-146c424573a7-hls3/live.m3u8
+#EXTINF:0,WHIO (CBS) News 7 Dayton OH
+https://amg00327-coxmediagroup-whiobreaking-ono-01a0t.amagi.tv/playlist.m3u8
+#EXTINF:0,WJAX (CBS) News 47 Jacksonville FL
+https://amg00327-coxmediagroup-wjaxbreaking-ono-tv8pt.amagi.tv/playlist.m3u8
+#EXTINF:0,WXYZ (ABC) News 7 Detroit MI
+https://ewscripps-wxyz-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,WSB (ABC) News 2 Atlanta GA
+https://amg00327-coxmediagroup-wsbbreaking-ono-o873b.amagi.tv/playlist.m3u8
+#EXTINF:0,Very Pittsburgh by WTAE
+https://linear-36.frequency.stream/dist/localnow/36/hls/master/playlist.m3u8
+#EXTINF:0,WPXI (NBC) News 11 Pittsburgh PA
+https://amg00327-coxmediagroup-wpxibreaking-ono-y9dml.amagi.tv/playlist.m3u8
+#EXTINF:0,WEWS (ABC) News 5 Cleveland OH
+https://ewscripps-wews-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,WFTS (ABC) News 28 Tampa FL
+https://ewscripps-wfts-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Very Tampa Bay by WMOR
+https://linear-200.frequency.stream/dist/localnow/200/hls/master/playlist.m3u8
+#EXTINF:0,Florida 24 Network Your Florida News
+https://ewscripps-fl24-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,WTHI (CBS) News 10 Terre Haute IN
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6c184b88-1133-416d-8b43-3c54d0167535.m3u8?adMethod=3&sessionId=whtilocalnow
+#EXTINF:0,WLFI (CBS) News 16 Lafayette IN
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/9c6a431c-7560-4a86-b659-fb1dfa3ef17c.m3u8?adMethod=3&sessionId=wlfilocalnow
+#EXTINF:0,WFFT (FOX) News 55 Fort Wayne IN
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/bd34df05-e619-4325-839b-c535b3711666.m3u8?adMethod=3&sessionId=wfftlocalnow
+#EXTINF:0,KADN (FOX) News 15 Lafayette LA
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/564982d0-5d6b-4f08-92fb-27d9f72ca6dd.m3u8?adMethod=3&sessionId=kadnlocalnow
+#EXTINF:0,WJRT (ABC) News 12 Flint MI
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6cedb338-4fa7-419b-be37-4cc8e7008d9b.m3u8?adMethod=3&sessionId=wjrtlocalnow
+#EXTINF:0,Very Baltimore by WBAL-TV
+https://linear-105.frequency.stream/dist/localnow/105/hls/master/playlist.m3u8
+#EXTINF:0,WMAR (ABC) News 2 Baltimore MD
+https://amg01438-ewscrippscompan-wmar-tubi-jgsl3.amagi.tv/playlist.m3u8
+#EXTINF:0,WRTV (ABC) News 6 Indianapolis IN
+https://amg01438-ewscrippscompan-wrtv-localnow-v2lsz.amagi.tv/playlist.m3u8
+#EXTINF:0,Very Cincinnati by WLWT
+https://linear-107.frequency.stream/dist/localnow/107/hls/master/playlist.m3u8
+#EXTINF:0,WCPO (ABC) News 9 Cincinnati OH
+https://amg01438-ewscrippscompan-wcpo-localnow-0lzo4.amagi.tv/playlist.m3u8
+#EXTINF:0,WFTX (FOX) News 36 Naples FL
+https://amg01438-ewscrippscompan-wftx-localnow-2l645.amagi.tv/playlist.m3u8
+#EXTINF:0,WTVR (CBS) News 6 Richmond VA
+https://amg01438-ewscrippscompan-wtvr-localnow-j85c2.amagi.tv/playlist.m3u8
+#EXTINF:0,WKBW 7 News Buffalo
+https://amg01438-ewscrippscompan-wkbw-localnow-bz7xs.amagi.tv/playlist.m3u8
+#EXTINF:0,WSYM (FOX) News 47 Lansing MI
+https://amg01438-ewscrippscompan-wsym-localnow-aqu7h.amagi.tv/playlist.m3u8
+#EXTINF:0,WTXL Tallahassee FL
+https://amg01438-ewscrippscompan-wtxl-localnow-8g3qx.amagi.tv/playlist.m3u8
+#EXTINF:0,WTKR Norfolk VA
+https://amg01438-ewscrippscompan-wtkr-localnow-lru1w.amagi.tv/playlist.m3u8
+#EXTINF:0,WXMI
+https://amg01438-ewscrippscompan-wxmi-localnow-60bub.amagi.tv/playlist.m3u8
+#EXTINF:0,LEX 18 News - Lexington KY
+https://amg01438-ewscrippscompan-wlex-localnow-vbu4r.amagi.tv/playlist.m3u8
+#EXTINF:0,Very Louisville by WLKY
+https://linear-109.frequency.stream/dist/localnow/109/hls/master/playlist.m3u8
+#EXTINF:0,WDRB Louisville KY
+https://ssai.field59.com/wdrb2.m3u8
+#EXTINF:0,Very Pennsylvania by WGAL
+https://linear-111.frequency.stream/dist/localnow/111/hls/master/playlist.m3u8
+#EXTINF:0,Very Maine by WMTW
+https://linear-113.frequency.stream/dist/localnow/113/hls/master/playlist.m3u8
+#EXTINF:0,Very Alabama by WVTM
+https://linear-116.frequency.stream/dist/localnow/116/hls/master/playlist.m3u8
+#EXTINF:0,Very Carolina by WXII
+https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
+#EXTINF:0,Very Carolina by WYFF 4
+https://linear-110.frequency.stream/dist/localnow/110/hls/master/playlist.m3u8
+#EXTINF:0,Very Savannah by WJCL
+https://linear-112.frequency.stream/dist/localnow/112/hls/master/playlist.m3u8
+#EXTINF:0,Very Champlain Valley by NBC 5
+https://linear-115.frequency.stream/dist/localnow/115/hls/master/playlist.m3u8
+#EXTINF:0,Very New Orleans by WDSU
+https://linear-108.frequency.stream/dist/localnow/108/hls/master/playlist.m3u8
+#EXTINF:0,KSHB 41 Kansas City News
+https://ewscripps-kshb-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Very Kansas City by KMBC/KCWE
+https://linear-96.frequency.stream/dist/localnow/96/hls/master/playlist.m3u8
+#EXTINF:0,KOKI (FOX) News 23 Tulsa OK
+https://amg00327-coxmediagroup-kokibreaking-ono-1zmfj.amagi.tv/playlist.m3u8
+#EXTINF:0,WHBQ (FOX) News 13 Memphis TN
+https://amg00327-coxmediagroup-whbqbreaking-ono-1r4cb.amagi.tv/playlist.m3u8
+#EXTINF:0,WTVF (CBS) News 5 Nashville TN
+https://ewscripps-wtvf-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,WAAY (ABC) News 31 Huntsville AL
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6b3399b8-0ab2-48ee-b0c7-8d69722a6a29.m3u8?adMethod=3&sessionId=waaylocalnow
+#EXTINF:0,WPSD (NBC) News 6 Paducah KY
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/462b8dbb-6c56-4888-a5c5-1dabe0249ed3.m3u8?adMethod=3&sessionId=wpsdlocalnow
+#EXTINF:0,WTVA (NBC) News 9 Tupelo MS
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6cd278c0-3af5-4964-98e0-16487642b91a.m3u8?adMethod=3&sessionId=wtvalocalnow
+#EXTINF:0,KIMT (CBS) News 3 Rochester MN
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/61905b40-556c-4306-8367-336da5853890.m3u8?adMethod=3&sessionId=kimtlocalnow
+#EXTINF:0,WEVV (CBS) News 44 Evansville IN
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1672aee1-19c6-43d3-88c9-972e8fd8c41c.m3u8?adMethod=3&sessionId=wevvlocalnow
+#EXTINF:0,KRIS (NBC) News 6 Corpus Christi TX
+https://amg01438-ewscrippscompan-kris-localnow-pjlfm.amagi.tv/playlist.m3u8
+#EXTINF:0,KXXV Waco TX
+https://amg01438-ewscrippscompan-kxxv-localnow-w9q4m.amagi.tv/playlist.m3u8
+#EXTINF:0,KAVU Crossroads Today Victoria TX
+https://kavu.akamaized.net/hls/live/2036774/KAVU/master.m3u8
+#EXTINF:0,KJRH Tulsa OK
+https://amg01438-ewscrippscompan-kjrh-localnow-gbckt.amagi.tv/playlist.m3u8
+#EXTINF:0,KATC Lafayette LA
+https://amg01438-ewscrippscompan-katc-localnow-2v0rv.amagi.tv/playlist.m3u8
+#EXTINF:0,Very Omaha by KETV
+https://linear-94.frequency.stream/dist/localnow/94/hls/master/playlist.m3u8
+#EXTINF:0,KMTV
+https://amg01438-ewscrippscompan-kmtv-localnow-3d3cu.amagi.tv/playlist.m3u8
+#EXTINF:0,NBC 26 WGBA Green Bay
+https://amg01438-ewscrippscompan-wgba-localnow-wz6t5.amagi.tv/playlist.m3u8
+#EXTINF:0,WTMJ
+https://amg01438-ewscrippscompan-wtmj-localnow-itj3z.amagi.tv/playlist.m3u8
+#EXTINF:0,Very Milwaukee by WISN 12
+https://linear-106.frequency.stream/dist/localnow/106/hls/master/playlist.m3u8
+#EXTINF:0,WKBT (CBS) News 8 La Crosse WI
+https://wkbt.akamaized.net/hls/live/2036773/WKBT/master.m3u8
+#EXTINF:0,Very Iowa by KCCI
+https://linear-93.frequency.stream/dist/localnow/93/hls/master/playlist.m3u8
+#EXTINF:0,Very Arkansas by 40/29
+https://linear-95.frequency.stream/dist/localnow/95/hls/master/playlist.m3u8
+#EXTINF:0,Very Jackson by 16 WAPT
+https://linear-100.frequency.stream/dist/localnow/100/hls/master/playlist.m3u8
+#EXTINF:0,Very Oklahoma by KOCO
+https://linear-98.frequency.stream/dist/localnow/98/hls/master/playlist.m3u8
+#EXTINF:0,KWWL Cedar Rapids IA
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e20ea4ed-ca87-430a-a8c4-92cfa8fd33cf.m3u8?adMethod=3&sessionId=kwwllocalnow
+#EXTINF:0,WAOW Wausau WI
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e4268c24-9778-40ea-9cd9-63643de892b2.m3u8?adMethod=3&sessionId=waowlocalnow
+#EXTINF:0,WKOW Madison WI
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/27e09272-cc4f-4160-8c3f-c6c8ef924add.m3u8?adMethod=3&sessionId=wkowlocalnow
+#EXTINF:0,WQOW Eau Claire WI
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e697653b-af00-416a-9553-ab7f1fbcadfe.m3u8?adMethod=3&sessionId=wqowlocalnow
+#EXTINF:0,WXOW La Crosse WI
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e988bce8-93e4-45f7-84fe-6ca7f841fff9.m3u8?adMethod=3&sessionId=wxowlocalnow
+#EXTINF:0,WISC Madison WI
+https://dai2-playlistserver.aws.syncbak.com/cpl/18642246/scte35hls/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIxODY0MjI0NiIsImNpZCI6MTc0NDEsInNpZCI6MTE2NiwibWQ1IjoiZTIxODQzNWFkM2FiZDM5OTdmNGNlODdlNjY1ODVhYjkiLCJpYXQiOjE2NjU3NzE5MzcsImV4cCI6MTY3MzU0NzkzNywiaXNzIjoiU3luY2JhayAoVEcpIn0.r9M1rgsvt5xE5nuDlo9lntSsmaTz7t-9OA2FegEGnso
+#EXTINF:0,WREX Rockford IL
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/84c07322-892b-4007-bccb-1a63239eac13.m3u8?adMethod=3&sessionId=wrexlocalnow
+#EXTINF:0,WSIL Paducah KY
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/a4b9b881-cdf4-4859-b809-0f2abe62486d.m3u8?adMethod=3&sessionId=wsillocalnow
+#EXTINF:0,KSTU (FOX) News 13 Salt Lake City UT
+https://ewscripps-kstu-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,KMGH (ABC) News 7 Denver CO
+https://ewscripps-kmgh-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,KOAA Pueblo/Colorado Springs CO
+https://amg01438-ewscrippscompan-koaa-localnow-uw0da.amagi.tv/playlist.m3u8
+#EXTINF:0,Very New Mexico by KOAT
+https://linear-97.frequency.stream/dist/localnow/97/hls/master/playlist.m3u8
+#EXTINF:0,KIVI Boise ID
+https://amg01438-ewscrippscompan-kivi-localnow-83cmu.amagi.tv/playlist.m3u8
+#EXTINF:0,KULR (NBC) News 8 Billings MT
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/ff1112f8-7ffe-494d-8cce-7954b4487f48.m3u8?adMethod=3&sessioinId=kurllocalnow
+#EXTINF:0,KTVQ
+https://amg01438-ewscrippscompan-ktvq-localnow-63q8w.amagi.tv/playlist.m3u8
+#EXTINF:0,KWYB (ABC) News 18 Butte MT
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kwyblocalnow
+#EXTINF:0,KBZK Butte MT
+https://amg01438-ewscrippscompan-kbzk-localnow-wlv1s.amagi.tv/playlist.m3u8
+#EXTINF:0,KFBB (ABC) News 5 Great Falls/Helena MT
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kfbblocalnow
+#EXTINF:0,KRTV
+https://amg01438-ewscrippscompan-krtv-localnow-wbnlt.amagi.tv/playlist.m3u8
+#EXTINF:0,KPAX (CBS) News 8 Missoula MT
+https://amg01438-ewscrippscompan-kpax-localnow-b847l.amagi.tv/playlist.m3u8
+#EXTINF:0,KTMF (ABC) News 23 Missoula MT
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/af0f7e66-d5cc-4d60-8795-ebddc983e1ae.m3u8?adMethod=3&sessionId=ktmflocalnow
+#EXTINF:0,KTVH
+https://amg01438-ewscrippscompan-ktvh-localnow-29sse.amagi.tv/playlist.m3u8
+#EXTINF:0,KVOA Tucson AZ
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/02a758bd-6764-49df-8199-d26aaf6ab3e3.m3u8?adMethod=3&sessionId=kvoalocalnow
+#EXTINF:0,KGUN 9 Tucson News
+https://amg01438-ewscrippscompan-kgun-localnow-f8zxq.amagi.tv/playlist.m3u8
+#EXTINF:0,KNXV (ABC) News 15 Phoenix AZ
+https://amg01438-ewscrippscompan-knxv-localnow-2pv9a.amagi.tv/playlist.m3u8
+#EXTINF:0,Very Sacramento by KCRA-TV
+https://linear-92.frequency.stream/dist/localnow/92/hls/master/playlist.m3u8
+#EXTINF:0,KNDU (NBC) News 25 Richland WA
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/8bc71947-0aa6-4849-b31e-1c4e0c5e0e2c.m3u8?adMethod=3&sessionId=kndulocalnow
+#EXTINF:0,KGTV (ABC) News 10 San Diego CA
+https://ewscripps-kgtv-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,KHQ (NBC) News 6 Spokane WA
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8?adMethod=3&sessionId=khqlocalnow
+#EXTINF:0,KIRO (CBS) News 7 Seattle WA
+https://amg00327-coxmediagroup-kirobreaking-ono-mzefy.amagi.tv/playlist.m3u8
+#EXTINF:0,Las Vegas Review-Journal
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/2c5f4430-fec6-44ed-accf-32103c019a73.m3u8?adMethod=3&sessionId=lvrjnewslocalnow
+#EXTINF:0,Las Vegas Review-Journal Sports
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/4eb188de-4a5b-4268-9b4d-82eb16031f3b.m3u8?adMethod=3&sessionId=lvrjsportslocalnow
+#EXTINF:0,KEZI (ABC) News 9 Eugene OR
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/68c81515-3f51-423e-b813-c2371e68630a.m3u8?adMethod=3&sessionId=kezilocalnow
+#EXTINF:0,KDRV (ABC) News 12 Medford OR
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/f96442b0-078f-4620-93bc-e5dfa990c572.m3u8?adMethod=3&sessionId=kdrvlocalnow
+#EXTINF:0,KHSL (CBS) News 12 Redding CA
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/9bb1377e-32c7-4ec2-a906-9e00c6360cd1.m3u8?adMethod=3&sessionId=khsllocalnow
+#EXTINF:0,KITV (ABC) News 4 Honolulu HI
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c7ed2016-ab63-46cf-b881-0e05f02918cb.m3u8?adMethod=3&sessionId=kitvlocalnow
+#EXTINF:0,KERO (ABC) News 23 Bakersfield CA
+https://amg01438-ewscrippscompan-kero-localnow-y5rqh.amagi.tv/playlist.m3u8
+#EXTINF:0,KSBY (NBC) News 6 San Luis Obispo CA
+https://amg01438-ewscrippscompan-ksby-localnow-ehlit.amagi.tv/playlist.m3u8
+#EXTINF:0,KTNV Las Vegas NV
+https://amg01438-ewscrippscompan-ktnv-localnow-9chr8.amagi.tv/playlist.m3u8
+#EXTINF:0,Very Central Coast by KSBW
+https://linear-99.frequency.stream/dist/localnow/99/hls/master/playlist.m3u8
+#EXTINF:0,NBC News NOW
+https://d326rlddjn5ksu.cloudfront.net/live/master.m3u8
+#EXTINF:0,TODAY All Day
+https://d36mmvz9np65vy.cloudfront.net/live/master.m3u8
+#EXTINF:0,Pattrn
+https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
+#EXTINF:0,Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
+#EXTINF:0,NewsNet
+https://newsnet-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+#EXTINF:0,Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:0,Law & Crime
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:0,Bloomberg TV
+https://bmd-livestream.bloomberg.com/live-stream/9ce32a85-3d61-4d15-87ed-6f062b4ad16d?access_token=0a25659c8a6505ec7ee6c6c5a855feb7
+#EXTINF:0,Bloomberg Quicktake
+https://bmd-livestream.bloomberg.com/live-stream/ad46acea-f84c-4079-9521-bca1134d34bf?access_token=0a25659c8a6505ec7ee6c6c5a855feb7
+#EXTINF:0,Cheddar News
+https://livestream.chdrstatic.com/ef15d4ffb143345024328fa90349a6c63c7ffa46802e1d4ac5a2b6109e0740a8/localnow/cheddar-localnow/cheddar/index.m3u8
+#EXTINF:0,Yahoo! Finance
+https://yahoofinance-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Newsmax
+https://nmxlocalnow.akamaized.net/hls/live/2020471/Live_1/index.m3u8
+#EXTINF:0,OAN Plus
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+#EXTINF:0,The First
+https://redseat-thefirst-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,TYT
+https://amg01220-theyoungturksne-tyt-localnow-yuw8b.amagi.tv/master.m3u8
+#EXTINF:0,The Hill TV
+https://amg01312-nexstarmediagro-thehill-localnow-sw8ts.amagi.tv/playlist.m3u8
+#EXTINF:0,Fednet
+https://amg01622-federalnetworki-fednetlocalnow-localnow-gvq3f.amagi.tv/playlist.m3u8
+#EXTINF:0,Euronews English
+https://a34fe93fee3e416fa5c2a97f7a37d4bb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_EuronewsWorld/playlist.m3u8?ads.wurl_channel=670&ads.wurl_name=EuronewsWorld&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,AfricaNews English
+https://f8a86e7d55e643299b6af73ef4c5179c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_AfricaNews/playlist.m3u8?ads.wurl_channel=1152&ads.wurl_name=AfricaNews&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,U.K. News
+https://ov.ottera.tv/live/master.m3u8?channel=ve_un
+#EXTINF:0,Business Rockstars
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/Business_Rockstars/index-businessrockstars.m3u8
+#EXTINF:0,The DotCom Magazine Show
+https://d3e900fnvjyq99.cloudfront.net/d/X34TT7UAROPDZ7RWVJC2/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657326
+#EXTINF:0,Defiance
+https://amg01529-defiancetv-defiancemedia-localnow-xgtfh.amagi.tv/playlist.m3u8
+#EXTINF:0,ROI TV
+https://5b628e43b8394c3b922d087a76bccb0e.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LocalNow_ROITV/playlist.m3u8?ads.wurl_channel=1233&ads.wurl_name=ROITV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Adrenaline Rush
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+#EXTINF:0,Gravitas Adrenaline
+https://d8c6d9593b3040ceb179a16bb75dbd47.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_GravitasAdrenaline/playlist.m3u8?ads.wurl_channel=1199&ads.wurl_name=GravitasAdrenaline&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Local Now Wild West
+https://linear-213.frequency.stream/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:0,Lone Star
+https://thelonestarchannel-localnow-cinedigm-com.akamaized.net/index.m3u8
+#EXTINF:0,The Western Channel
+https://d3e900fnvjyq99.cloudfront.net/d/W14W78RBYQQ0X0B2QT9S/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657350
+#EXTINF:0,Old West TV
+https://d3e900fnvjyq99.cloudfront.net/d/4IXOLHSBOS5AIVSPUGZB/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657304
+#EXTINF:0,Cowboy Classics
+https://d3e900fnvjyq99.cloudfront.net/d/HSKV2TFJKIB08IVJ32W0/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657295
+#EXTINF:0,Hi-Yah!
+https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
+#EXTINF:0,Kung Fu Movies
+https://d3e900fnvjyq99.cloudfront.net/d/XUU229YVT9R4U3TK0SQC/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657330
+#EXTINF:0,Action!!!
+https://4b7166d5a45641e3af0f061846361073.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_ACTION/playlist.m3u8?ads.wurl_channel=1047&ads.wurl_name=ACTION&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Urban Action Channel
+https://d3e900fnvjyq99.cloudfront.net/d/PNYXCTA5SUANEQZBS1IR/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657312
+#EXTINF:0,Urban Action Showcase Cinema
+https://d3e900fnvjyq99.cloudfront.net/d/XUOWEB4HLLZMFCQ0HDS5/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657290
+#EXTINF:0,Bang Bang TV
+https://edge-fast.evrideo.tv/fd7c895e-aa96-4298-ad6d-2be4936f5347_0_HLS/manifest.m3u8
+#EXTINF:0,Jamie Kennedy Comedy
+https://linear-459.frequency.stream/dist/localnow/459/hls/master/playlist.m3u8
+#EXTINF:0,LOL! Stand Up
+https://371f5a4f4aff4379b89601b3702dede6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_LOLNetworkDefComedyJam/playlist.m3u8?ads.wurl_channel=1067&ads.wurl_name=LOLNetworkDefComedyJam&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Johnny Carson TV
+https://johnnycarson-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Comedy Dynamics
+https://comedydynamics-localnow.cinedigm.com/playlist.m3u8
+#EXTINF:0,LN Comedy
+https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8
+#EXTINF:0,Ha! That's Funny
+https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
+#EXTINF:0,AFV Family
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
+#EXTINF:0,Mystery Science Theater 3000
+https://mst3k-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Comics Unleashed
+https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8
+#EXTINF:0,Funny You Should Ask
+https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
+#EXTINF:0,Comedy Classics
+https://d3e900fnvjyq99.cloudfront.net/d/BLAPLURAKTZNFVVA1IDI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657303
+#EXTINF:0,FailArmy
+https://linear-198.frequency.stream/dist/localnow/198/hls/master/playlist.m3u8
+#EXTINF:0,Just For Laughs Gags
+https://a1558bf22f144e3586ec2066cdf58c49.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_JustForLaughsGags/playlist.m3u8?ads.wurl_channel=1191&ads.wurl_name=JustForLaughsGags&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,The Red Green Show
+https://e97038ca286943df8bf2c4b4b640803d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_TheRedGreenChannel/playlist.m3u8?ads.wurl_channel=949&ads.wurl_name=TheRedGreenChannel&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,WITZ-Comedy TV
+https://817cd9aef5144a09a040a7a34e7bdb53.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LocalNow_WITZComedyTV/playlist.m3u8?ads.wurl_channel=1197&ads.wurl_name=WITZComedyTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Funny Or Die
+https://6d7dd14be59b4ee9bff26b208a0c5e2d.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LocalNow_FunnyOrDie/playlist.m3u8?ads.wurl_channel=1289&ads.wurl_name=FunnyOrDie&ads.coppa=0&ads.app_bundle==%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,All The Drama
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:0,Romantique
+https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8
+#EXTINF:0,Degrassi: The Next Generation
+https://77a6ff56f3b844979513de47e55de4ac.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_Degrassi/playlist.m3u8?ads.wurl_channel=715&ads.wurl_name=Degrassi&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Moving On
+https://linear-247.frequency.stream/dist/localnow/247/hls/master/playlist.m3u8
+#EXTINF:0,The Film Detective
+https://filmdetective-localnow-cinedigm-com.akamaized.net/index.m3u8
+#EXTINF:0,Crime Stoppers: Case Files
+https://linear-290.frequency.stream/dist/localnow/290/hls/master/playlist.m3u8
+#EXTINF:0,Cold Squad
+https://linear-240.frequency.stream/dist/localnow/240/hls/master/playlist.m3u8
+#EXTINF:0,Film Noir Channel
+https://d3e900fnvjyq99.cloudfront.net/d/PWK1ZYHPFDKUQPTVPAC6/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657351
+#EXTINF:0,TWC Espanol
+https://d3l7dafcu55vvf.cloudfront.net/out/v1/70c49418b07348f08cdc17cf94e5b3f0/index.m3u8
+#EXTINF:0,EuroNews Spanish
+https://e9935ec41acb41f0892993767183e12b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_EuronewsenEspanol/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsenEspanol&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,AFV Espanol
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+#EXTINF:0,El Conflicto
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/El_ConflictoTV/index-elconflictotv.m3u8
+#EXTINF:0,Canela TV
+https://cnm-cn.otteravision.com/out/v1/9b403726f16b42cdb83b8af6b36aa01a/index.m3u8
+#EXTINF:0,La Corriente
+https://ov.ottera.tv/live/master.m3u8?channel=ottpri_sl_lc
+#EXTINF:0,Latin Angels TV
+https://fc6328c329c5425e81db2e8965d8d8d9.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_LatinAngelsTV/playlist.m3u8?ads.wurl_channel=991&ads.wurl_name=LatinAngelsTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Must See Movies!
+https://d3e900fnvjyq99.cloudfront.net/d/U43X2066RT3B15U2AZ1C/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657288
+#EXTINF:0,Show Business TV
+https://fe93d2d323df4a5dadaa117e108e9d6c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_ShowBusinessTV/playlist.m3u8?ads.wurl_channel=990&ads.wurl_name=ShowBusinessTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,The Spanish Family Channel
+https://d3e900fnvjyq99.cloudfront.net/d/L3LRFPSQ1VM09K23ROZ7/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657319
+#EXTINF:0,ZAZ
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/ZAZ_Loop/index-zaz-loop.m3u8
+#EXTINF:0,Sun Channel
+https://publocalnow.teleosmedia.com/linear/sun/sun/playlist.m3u8
+#EXTINF:0,Inti Pacha TV
+https://12b71fa80adc4f3ca71526d9a77d5b00.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_INTIPACHA/playlist.m3u8?ads.wurl_channel=992&ads.wurl_name=INTIPACHA&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Trace Latina
+https://d3e900fnvjyq99.cloudfront.net/d/V82OCO4XYQTZMWG908YJ/a4u5KQHhehi82dvJo1M6imu5.m3u8?ads.vast_id=668373
+#EXTINF:0,Trace Urban
+https://d3e900fnvjyq99.cloudfront.net/d/LPR64PMGNAJ4TG7W2WKP/KXnMYpeHlsp8Vgh1qRwrLqEu.m3u8?ads.vast_id=668374
+#EXTINF:0,Box Playlist
+https://d3e900fnvjyq99.cloudfront.net/d/TWRCM2YARC0HCSMY466Q/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657299
+#EXTINF:0,Box Gamers
+https://d3e900fnvjyq99.cloudfront.net/d/2AKMCD22RNCY4FHR9XSC/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657310
+#EXTINF:0,LevelUp TV
+https://f6c3f25ebf224c019679e4e0a502a5a1.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_LevelUpTV/playlist.m3u8?ads.wurl_channel=927&ads.wurl_name=LevelUpTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,beIN SPORTS XTRA Espanol
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:0,The Chukker Channel
+https://the-chukker-channel-tv-local-now.evrideo.tv/ee1f7251-f83f-4a8e-b132-6da0d79f8d34_1000014578_HLS/master.m3u8
+#EXTINF:0,Novelisima
+https://cis-no-es.otteravision.com/cis/no_es/no_es.m3u8
+#EXTINF:0,Byron Allen Presents TheGrio Awards
+https://linear-539.frequency.stream/dist/localnow/539/hls/master/playlist.m3u8
+#EXTINF:0,TheGrio
+https://amg00876-allenmedia-thegrio-localnow-7kjyf.amagi.tv/playlist.m3u8
+#EXTINF:0,People TV
+https://peopletv-localnow.akamaized.net/playlist.m3u8
+#EXTINF:0,US Weekly TV
+https://5cd89f3c4ef845078f40d11891de2676.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_UsWeeklyTV/playlist.m3u8?ads.wurl_channel=836&ads.wurl_name=usweeklytv&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Made In Hollywood
+https://ov.ottera.tv/live/master.m3u8?channel=mvf_mh
+#EXTINF:0,Popstar! TV
+https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
+#EXTINF:0,Daily Flash
+https://d3e900fnvjyq99.cloudfront.net/d/KDBKRODVDJ66UCBWD7EB/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657346
+#EXTINF:0,Love 2 Hate
+https://love-2-hate-local-now.evrideo.tv/cdd2e9c7-f344-4ba6-ad4f-d6df1a995abe_0_HLS/manifest.m3u8
+#EXTINF:0,VE Entertainment
+https://ov.ottera.tv/live/master.m3u8?channel=ve_ve
+#EXTINF:0,Entertainment by Binge
+https://d3e900fnvjyq99.cloudfront.net/d/THLZB98F7ITWSKTE2BH0/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657338
+#EXTINF:0,WatchMojo
+https://99df1ef238444d9f80d00018af2f0b2f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LocalNow_WatchMojo/playlist.m3u8?ads.wurl_channel=1109&ads.wurl_name=WatchMojo&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,PBS Digital Studios
+https://linear-283.frequency.stream/dist/localnow/283/hls/master/playlist.m3u8
+#EXTINF:0,Docurama
+https://docurama-localnow-cinedigm-com.akamaized.net/index.m3u8
+#EXTINF:0,Gravitas Documentaries
+https://929334757ed746098207286c32c978a5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_GravitasDocumentaries/playlist.m3u8?ads.wurl_channel=1200&ads.wurl_name=GravitasDocumentaries&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Magellan TV
+https://9fedbdc6eacf4a5d9bbe03db4a8c38d3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_MagellanTV/playlist.m3u8?ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,DOCU VISION
+https://docu-vision-tv-local-now.evrideo.tv/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/manifest.m3u8
+#EXTINF:0,Documentary+
+https://d403cbd50aab412db89df4420f69f89d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=894&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,True History
+https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist.m3u8
+#EXTINF:0,History Film Channel
+https://d3e900fnvjyq99.cloudfront.net/d/DUG4JWOV4D85BJHELBLG/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657329
+#EXTINF:0,Film Star Documentaries
+https://d3e900fnvjyq99.cloudfront.net/d/ID3HJENJN3ZD7NSNBWCK/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657348
+#EXTINF:0,Inspire Flix
+https://ov.ottera.tv/live/master.m3u8?channel=ve_if
+#EXTINF:0,Love Nature Channel
+https://lovenatureus-eng-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Wild Earth
+https://wildearth-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Xploration Station
+https://0e21bb37851e47758567dded12a0a1a2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_XplorationStation/playlist.m3u8?ads.wurl_channel=1225&ads.wurl_name=XplorationStation&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,INFAST
+https://amg00861-terninternation-lifestyleus-localnow-2jqu0.amagi.tv/playlist.m3u8
+#EXTINF:0,Evrgrn
+https://76f7739caf924fca8087ff7d3f62e264.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_Evrgrn/playlist.m3u8?ads.wurl_channel=471&ads.wurl_name=Evrgrn&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Local Now Destinations
+https://linear-249.frequency.stream/dist/localnow/249/hls/master/playlist.m3u8
+#EXTINF:0,GoTraveler
+https://ov.ottera.tv/live/master.m3u8?channel=qs_gt
+#EXTINF:0,Travel & Food TV
+https://d3e900fnvjyq99.cloudfront.net/d/IQIB8I0HHJLUE2S3AVCC/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657305
+#EXTINF:0,4K Travel
+https://4k-travel-local-now.evrideo.tv/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/manifest.m3u8
+#EXTINF:0,Real Hawaii TV
+https://d3e900fnvjyq99.cloudfront.net/d/T4CRUTRUTMNDVA4H33V4/245.m3u8?ads.vast_id=657360
+#EXTINF:0,ChopperTown
+https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
+#EXTINF:0,Military Times
+https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
+#EXTINF:0,True Crime Now
+https://e412dac763594c198585c3ea25bdae85.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_TrueCrimeNow/playlist.m3u8?ads.wurl_channel=941&ads.wurl_name=TrueCrimeNow&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Crime and Conspiracy
+https://ov.ottera.tv/live/master.m3u8?channel=ptv_po
+#EXTINF:0,Dove Channel
+https://dovechannel-localnow-cinedigm-com.akamaized.net/index.m3u8
+#EXTINF:0,Chicken Soup for the Soul
+https://amg00540-crackleplusllc-chickensoup-localnow-1rb5x.amagi.tv/playlist.m3u8
+#EXTINF:0,Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:0,Local Now For the Love of Animals
+https://linear-519.frequency.stream/dist/localnow/519/hls/master/playlist.m3u8
+#EXTINF:0,The Pet Collective
+https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
+#EXTINF:0,Fido TV
+https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
+#EXTINF:0,Wild America TV
+https://d3e900fnvjyq99.cloudfront.net/d/XTIO8R2MMKN90OYPUPJJ/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657345
+#EXTINF:0,Watch it KID!
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/Watchit_Kid/index-watchitkid.m3u8
+#EXTINF:0,CJC Network
+https://vcncje.teleosmedia.com/linear/cje/cjc/playlist.m3u8
+#EXTINF:0,The Family TV Channel
+https://d3e900fnvjyq99.cloudfront.net/d/0J5FPZD2H74917BOR7DO/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657327
+#EXTINF:0,Heartfelt TV
+https://heartfelt-tv-local-now.evrideo.tv/cab1bb3c-2906-49bf-a503-6cbcb54935ac_1000014573_HLS/master.m3u8
+#EXTINF:0,JLTV
+https://jlt2104.cdn.nextologies.com/ebaed9568f2b8e61/ffaaf4b7e1d0e7a8/playlist.m3u8
+#EXTINF:0,In Touch+
+https://amg01540-apexmedia-intouchplus-localnow-cjrvc.amagi.tv/playlist.m3u8
+#EXTINF:0,Truli
+https://amg00540-crackleplusllc-truli-localnow-g5yyq.amagi.tv/playlist.m3u8
+#EXTINF:0,Christian Life
+https://d3e900fnvjyq99.cloudfront.net/d/TG6GIZ92PIPZDV27DFXJ/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657313
+#EXTINF:0,Fig Tree TV
+https://5902239683a940da95e0820a49e90c79.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_FigTreeTV-1/playlist.m3u8?ads.wurl_channel=1245&ads.wurl_name=FigTreeTV-1&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Film Star
+https://d3e900fnvjyq99.cloudfront.net/d/OX3XZ9NPPKR0NLARW39I/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657343
+#EXTINF:0,Film Star Faith & Family
+https://d3e900fnvjyq99.cloudfront.net/d/QN3WSIFO41X196X2K5E2/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657349
+#EXTINF:0,CONtv
+https://contv-localnow-cinedigm-com.akamaized.net/index.m3u8
+#EXTINF:0,CONtv Anime
+https://contvanime-localnow-cinedigm-com.akamaized.net/index.m3u8
+#EXTINF:0,ESR eSports Network
+https://eyeonesports.com/ES2RA-628g.m3u8
+#EXTINF:0,GTR24H
+https://d3e900fnvjyq99.cloudfront.net/d/6FOHM1U7V6AZ0Q7TBNKB/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657324
+#EXTINF:0,Allied Esports
+https://d1lvmtqnqngsrn.cloudfront.net/scheduler/scheduleMaster/213.m3u8
+#EXTINF:0,Esports Talk
+https://d3e900fnvjyq99.cloudfront.net/d/VY701MBL0YRIRLFHVG1Y/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657333
+#EXTINF:0,BIGG
+https://5f05f4e705c84bc29d48e2d23f04bad0.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_BIGGGamingChannel/playlist.m3u8?ads.wurl_channel=1114&ads.wurl_name=BIGGGamingChannel&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Treehouse Gaming
+https://ov.ottera.tv/live/master.m3u8?channel=sadsea_tn
+#EXTINF:0,Dungeon TV
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/DungeonTV/Index-dungeontv.m3u8
+#EXTINF:0,Fear This!
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
+#EXTINF:0,BloodyDisgusting
+https://bloodydisgustingtv-localnow-cinedigm-com.akamaized.net/index.m3u8
+#EXTINF:0,Dark Matter TV
+https://dcicealhbcymw.cloudfront.net/strm/link/darkmatter.m3u8
+#EXTINF:0,Horror Machine
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+#EXTINF:0,Trailers From Hell
+https://189067eb43d2471db5d0829668d625eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_TrailersFromHell/playlist.m3u8?ads.wurl_channel=1048&ads.wurl_name=TrailersFromHell&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Dark Corners
+https://07e18a5d08ee4b8888c4e86690085763.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_DarkCorners/playlist.m3u8?ads.wurl_channel=1058&ads.wurl_name=DarkCorners&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Horror TV
+https://horror-tv-local-now.evrideo.tv/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000014577_HLS/master.m3u8
+#EXTINF:0,Danger Vision
+https://danger-vision-tv-local-now.evrideo.tv/52756c98-452c-4873-a843-31462a04dd53_1000014890_HLS/master.m3u8
+#EXTINF:0,Outer Vision TV
+https://outer-vision-tv-local-now.evrideo.tv/cdef8956-d9c3-4278-b596-f35b9649692d_1000014575_HLS/master.m3u8
+#EXTINF:0,Unexplained
+https://65c199f54d714f5bb856c5564317aab4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_Unexplained/playlist.m3u8?ads.wurl_channel=1159&ads.wurl_name=Unexplained&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Kino Cult
+https://ov.ottera.tv/live/master.m3u8?channel=gnt_kn
+#EXTINF:0,Gusto TV
+https://gusto-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Cooking Panda
+https://ov.ottera.tv/live/master.m3u8?channel=rndr_cp
+#EXTINF:0,The Chef's Kitchen
+https://d3e900fnvjyq99.cloudfront.net/d/WEWVZLBRDNFZG48BGTCJ/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657352
+#EXTINF:0,Local Now Let's Dine
+https://linear-274.frequency.stream/dist/localnow/274/hls/master/playlist.m3u8
+#EXTINF:0,Hungry
+https://dd39ea2fe754425cab138f6215a85a63.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_Hungry/playlist.m3u8?ads.wurl_channel=140&ads.wurl_name=Hungry&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Love Stories TV
+https://61db1718eec04f09a347d7c19a9ab138.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_LoveStoriesTV/playlist.m3u8?ads.wurl_channel=1061&ads.wurl_name=LoveStoriesTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,SurvivorNetTV
+https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
+#EXTINF:0,Today's Homeowner
+https://140a1a5cb94947b4bf69704cd43ba2b2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_TodaysHomeowner/playlist.m3u8?ads.wurl_channel=1162&ads.wurl_name=TodaysHomeowner&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,The Boat Show
+https://5a030c9e347847cbb862ce9037d5e7bc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_TheBoatShow/playlist.m3u8?ads.wurl_channel=529&ads.wurl_name=TheBoatShow&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,AWE Plus
+https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
+#EXTINF:0,Global Fashion Channel
+https://143f310618ea4262988f2e2f9991c146.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_GlobalFashionChannel/playlist.m3u8?ads.wurl_channel=1113&ads.wurl_name=GlobalFashionChannel&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,HBCU Go
+https://amg00876-allenmedia-hbcugo-localnow-v0547.amagi.tv/playlist.m3u8
+#EXTINF:0,TheGRID Network
+https://vcncje.teleosmedia.com/linear/cje/thegrid/playlist.m3u8
+#EXTINF:0,Maverick Black Cinema
+https://d12785ae9b2a4cf5bebeb298bf0a90b5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Film Plug
+https://ov.ottera.tv/live/master.m3u8?channel=txf_fp
+#EXTINF:0,Revry News
+https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
+#EXTINF:0,Revry
+https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
+#EXTINF:0,Revry HER
+https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
+#EXTINF:0,More U
+https://2f8b1e8f68bd4a44a58e2a30ea2e0216.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_MoreU/playlist.m3u8?ads.wurl_channel=881&ads.wurl_name=MoreU&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Boomers TV
+https://linear-173.frequency.stream/dist/localnow/173/hls/master/playlist.m3u8
+#EXTINF:0,QVC
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1usott/master.m3u8
+#EXTINF:0,HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/master.m3u8
+#EXTINF:0,Shop LC
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLC_LocalNow)/master.m3u8
+#EXTINF:0,Jewelry TV
+https://amg01434-jewelrytelevisi-jewelrytv-localnow-rtj0e.amagi.tv/playlist.m3u8
+#EXTINF:0,Crackle
+https://amg00540-crackleplusllc-crackle-localnow-ujykb.amagi.tv/playlist.m3u8
+#EXTINF:0,Crackle Classics TV
+https://amg00540-crackleplusllc-crackleclassics-localnow-too5f.amagi.tv/playlist.m3u8
+#EXTINF:0,Popcorn Flix
+https://amg00540-crackleplusllc-popcornflix-localnow-vln1v.amagi.tv/playlist.m3u8
+#EXTINF:0,REELZ Famous & Infamous
+https://linear-190.frequency.stream/dist/localnow/190/hls/master/playlist.m3u8
+#EXTINF:0,CineLife
+https://amg00308-magnoliapicture-cinelife-localnow-a11t3.amagi.tv/playlist.m3u8
+#EXTINF:0,Shout! Factory TV
+https://shoutfactory-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Gravitas Movies
+https://b4542aa677084c7ba618b1fae108640b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_GravitasMovies/playlist.m3u8?ads.wurl_channel=154&ads.wurl_name=gravitasmovies&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.content_genre=%7Bcontent_genre%7D&ads.content_id=%7Bvideo_id%7D&ads.content_provider=%7Bcontent_provider%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channelid=%7Bchannel_id%7D&ads.cust_channeltitle=%7Bchannel_title%7D&ads.cust_channeltype=movies&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.did=%7Bdevice_ifa%7D&ads.dnt=%7Bdnt%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.iris_context=%7Biris_context%7D&ads.iris_id=%7Biris_id%7D&ads.ua=%7Bua%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_store_url=%7Bapp_url%7D&test=1
+#EXTINF:0,ElectricNOW
+https://elec-en.otteravision.com/elec/en/elec_en.m3u8
+#EXTINF:0,Movies of the Week
+https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
+#EXTINF:0,LN 21st Century Cinema
+https://linear-455.frequency.stream/dist/localnow/455/hls/master/playlist.m3u8
+#EXTINF:0,LN 80s & 90s Rewind
+https://linear-456.frequency.stream/dist/localnow/456/hls/master/playlist.m3u8
+#EXTINF:0,LN Classic Movies
+https://linear-454.frequency.stream/dist/localnow/454/hls/master/playlist.m3u8
+#EXTINF:0,The Elvis Presley Channel
+https://theelvispresleychannel-localnow-cinedigm-com.akamaized.net/index.m3u8
+#EXTINF:0,The Grapevine
+https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
+#EXTINF:0,The Archive
+https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
+#EXTINF:0,CinePast
+https://d3e900fnvjyq99.cloudfront.net/d/7V36GBVV2R1B6YVNACLY/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657297
+#EXTINF:0,Cinepride
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/Cinepride/index-cinepride.m3u8
+#EXTINF:0,Galxy TV
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/GalxyTV/index-galxytv.m3u8
+#EXTINF:0,ClixTV
+https://467a4e5a6b7541f7aa1efa5cd365f4bc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_ClixTV/playlist.m3u8?ads.wurl_channel=1098&ads.wurl_name=ClixTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Always Christmas
+https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
+#EXTINF:0,Christmas Classics
+https://ov.ottera.tv/live/master.m3u8?channel=ottpri_sl_cc
+#EXTINF:0,The Preview Channel
+https://32446768083a4b3b8f5d614b6c5021d1.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_ThePreviewChannel/playlist.m3u8?ads.wurl_channel=501&ads.wurl_name=thepreviewchannel&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Hollywood Classic Movies
+https://d3e900fnvjyq99.cloudfront.net/d/EY6LIPS0RW3VI4G58VHR/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657328
+#EXTINF:0,Legend Films
+https://d3e900fnvjyq99.cloudfront.net/d/VIO0HQM6Q65AO1TFTZVY/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657344
+#EXTINF:0,Films and Series by Binge
+https://d3e900fnvjyq99.cloudfront.net/d/EVJ9MN94P0RXXZH5UP1X/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657337
+#EXTINF:0,Streamster
+https://d3e900fnvjyq99.cloudfront.net/d/A47SCAUXH8WE2W69AM6L/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657332
+#EXTINF:0,Best TV Ever
+https://c31ffb43e46b4a1ebd5411be2bde993b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_BestEver/playlist.m3u8?ads.wurl_channel=880&ads.wurl_name=BestEver&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Stoner TV Network
+https://d3e900fnvjyq99.cloudfront.net/d/PXMO5X9ZYR05ZCD700HJ/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657331
+#EXTINF:0,a-z Best Classic TV
+https://d3e900fnvjyq99.cloudfront.net/d/Z1P80N05EK2CKI2HW124/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657293
+#EXTINF:0,a-z Classic Flix
+https://d3e900fnvjyq99.cloudfront.net/d/V6BJ7L5UDWWCHH1GUR7W/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657292
+#EXTINF:0,A+ Cinema
+https://d3e900fnvjyq99.cloudfront.net/d/JWBCCOQICVYX608BU1QH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657287
+#EXTINF:0,Comfy TV
+https://hls.showfer.com/stream/62bc9ba7b49157d5c4f34e7f/airy.m3u8
+#EXTINF:0,holr movies
+https://hls.showfer.com/stream/62cb71a0d090f36fc5aa83ae/airy.m3u8
+#EXTINF:0,AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:0,TWG+ Arts
+https://amg01597-wnetnewyorkpubl-wnettwgarts-localnow-94df0.amagi.tv/playlist.m3u8
+#EXTINF:0,Loupe Art
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+#EXTINF:0,Broadway On Demand
+https://1648709315.rsc.cdn77.org/HLS/BROADWAY_SCTE.m3u8
+#EXTINF:0,QwestClassical
+https://qwestclassic-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,QwestJazz
+https://qwestjazz-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,QwestMix
+https://qwestmix-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Local Now Music
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:0,Vevo Pop
+https://amg00056-vevotv-vevopop-localnow-0c0pg.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Hip-Hop
+https://amg00056-vevotv-vevohip-hop-localnow-vttpn.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo R&B
+https://amg00056-vevotv-vevornb-localnow-e6fya.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Reggaeton & Trap
+https://amagicloud-medialive-common016.s3.amazonaws.com/vevo_reggaeton-localnow/playlist.m3u8
+#EXTINF:0,Vevo Country
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevocountry-localnow/playlist.m3u8
+#EXTINF:0,Vevo Iconos Latinos
+https://amg00056-vevotv-vevoiconos-localnow-vc4o6.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Latino
+https://amg00056-vevotv-vevolatino-localnow-hc6lb.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Regional Mexicano
+https://amg00056-vevotv-vevoregionalmx-localnow-zoyae.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo '70s
+https://amg00056-vevotv-vevo70s-localnow-54fdh.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo '80s
+https://amg00056-vevotv-vevo80s-localnow-62dfp.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo '90s
+https://amg00056-vevotv-vevo90s-localnow-n1kem.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo 2K
+https://amg00056-vevotv-vevo2k-localnow-6do45.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Holiday
+https://na.linear.zype.com/41d472f4-874b-4d3d-b403-f674a1f0ec11/0827fa34-ab0f-479a-8294-5fa72e74791c-hls4/live.m3u8
+#EXTINF:0,Vevo True School Hip-Hop
+https://amg00056-vevotv-vevotrueschool-localnow-9xqq9.amagi.tv/playlist.m3u8
+#EXTINF:0,Vevo Retro Rock!
+https://amg00056-vevotv-vevoretrorock-localnow-k4zs8.amagi.tv/playlist.m3u8
+#EXTINF:0,DittyTV
+https://8bd570129b3841d4aa2921e75a4e7a54.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DittyTV/playlist.m3u8?ads.wurl_channel=1103&ads.wurl_name=DittyTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,OurVinyl TV
+https://efb98b60bb124ec28c482632e85260fd.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_OurVinylTV/playlist.m3u8?ads.wurl_channel=1165&ads.wurl_name=OurVinylTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Music Legends Network
+https://d3e900fnvjyq99.cloudfront.net/d/KDHTKOKC0CASGJQOYE77/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657342
+#EXTINF:0,Jam in the Van
+https://d3e900fnvjyq99.cloudfront.net/d/14URWESSBZNCP1SXXTID/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657311
+#EXTINF:0,AMusic Channel
+https://d3e900fnvjyq99.cloudfront.net/d/X90ICZFTND3NMC45UF4P/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657300
+#EXTINF:0,OFIVE
+https://d3e900fnvjyq99.cloudfront.net/d/TWTZH32I6BGMU9C8IUM2/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657336
+#EXTINF:0,Party Tyme Karaoke
+https://ov.ottera.tv/live/master.m3u8?channel=ssnd_pt_us
+#EXTINF:0,Weather Gone Viral
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
+#EXTINF:0,Chive TV
+https://chivetv-localnow.amagi.tv/master.m3u8
+#EXTINF:0,Fat Guys in the Woods
+https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
+#EXTINF:0,Highway Thru Hell
+https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
+#EXTINF:0,Jade Fever
+https://linear-246.frequency.stream/dist/localnow/246/hls/master/playlist.m3u8
+#EXTINF:0,So Real
+https://soreal-localnow-cinedigm-com.akamaized.net/index.m3u8
+#EXTINF:0,911 Network
+https://amg00283-anthymtv-911network-ono-p7py5.amagi.tv/playlist.m3u8
+#EXTINF:0,Talk With Audrey
+https://d3e900fnvjyq99.cloudfront.net/d/U4BWQ9WK6D4BHMMGIO8D/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657308
+#EXTINF:0,Local Now Justice
+https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
+#EXTINF:0,Justice with Judge Mablean
+https://linear-221.frequency.stream/dist/localnow/221/hls/master/playlist.m3u8
+#EXTINF:0,America's Court with Judge Ross
+https://linear-219.frequency.stream/dist/localnow/219/hls/master/playlist.m3u8
+#EXTINF:0,Justice for All with Judge Cristina Perez
+https://linear-220.frequency.stream/dist/localnow/220/hls/master/playlist.m3u8
+#EXTINF:0,Supreme Justice with Judge Karen
+https://linear-222.frequency.stream/dist/localnow/222/hls/master/playlist.m3u8
+#EXTINF:0,The Verdict with Judge Hatchett
+https://linear-223.frequency.stream/dist/localnow/223/hls/master/playlist.m3u8
+#EXTINF:0,We the People with Gloria Allred
+https://linear-279.frequency.stream/dist/localnow/279/hls/master/playlist.m3u8
+#EXTINF:0,LN Zen
+https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
+#EXTINF:0,Fireside
+https://linear-244.frequency.stream/dist/localnow/244/hls/master/playlist.m3u8
+#EXTINF:0,Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-losangeles/localnow/master.m3u8
+#EXTINF:0,Utah TV
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/51901278-b41e-4b0c-a237-9b9b3fb3f2c8.m3u8?adMethod=3&UtahtvLocalNow
+#EXTINF:0,Local Now Coffeehouse
+https://linear-272.frequency.stream/dist/localnow/272/hls/master/playlist.m3u8
+#EXTINF:0,Deluxe Lounge HD
+https://hvh-hv.otteravision.com/hvh/dl_hd/dl_hd.m3u8
+#EXTINF:0,NatureStream.TV
+https://dcicealhbcymw.cloudfront.net/strm/link/naturestream.m3u8
+#EXTINF:0,Quietude
+https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
+#EXTINF:0,Drone TV
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8?ads.wurl_channel=1072&ads.wurl_name=DroneTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Restflix Sleepscapes
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/ae96262f-e852-44b6-a322-f35b675d1fcf.m3u8?adMethod=3&sessionId=verestflixsleepscapeslocalnow
+#EXTINF:0,Restflix Rest Stories
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/008eb772-62ae-4fcd-aaa2-51f4c837d323.m3u8?adMethod=3&sessionId=verestflixreststorieslocalnow
+#EXTINF:0,Restflix ASMR
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/9fe2bd84-210f-4558-be72-158a69f3fb6e.m3u8?adMethod=3&sessionId=verestflixasmrlocalnow
+#EXTINF:0,Whistle TV
+https://whistletv-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,For The Fans
+https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
+#EXTINF:0,Pac-12 Insider
+https://pac12-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,CampusLore Sports
+https://linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8
+#EXTINF:0,LacrosseTV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:0,Swerve Sports
+https://linear-253.frequency.stream/dist/localnow/253/hls/master/playlist.m3u8
+#EXTINF:0,The Unbeaten
+https://unbeaten-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Players TV
+https://amg00379-playerstv-playerstv-localnow-hknct.amagi.tv/playlist.m3u8
+#EXTINF:0,Horizon Sports
+http://a.jsrdn.com/broadcast/20dc4269f3/%2B0700/c.m3u8
+#EXTINF:0,VE Sports News
+https://ov.ottera.tv/live/master.m3u8?channel=ve_vs
+#EXTINF:0,SportsTV Plus
+https://d3e900fnvjyq99.cloudfront.net/d/74P0TCDES290O98LM25K/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657302
+#EXTINF:0,beIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:0,Sports Grid
+https://sportsgrid-localnow-us.amagi.tv/playlist.m3u8
+#EXTINF:0,Women's Sports Network
+https://amg01416-faststudios-womennetwork-localnow-9rpxa.amagi.tv/playlist.m3u8
+#EXTINF:0,English Football Channel
+https://ov.ottera.tv/live/master.m3u8?channel=ve_ef
+#EXTINF:0,Kick Sports News
+https://d3e900fnvjyq99.cloudfront.net/d/ND641C51EO2KQA9ORZYI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657316
+#EXTINF:0,Spartan TV
+https://amg01416-faststudios-spartantv-localnow-67lg6.amagi.tv/playlist.m3u8
+#EXTINF:0,Strongman Champions Network
+https://f55973c7fde84bc997efecb5881ae365.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Sports.TV Top Flix
+https://linear-280.frequency.stream/dist/sportstv/280/hls/master/playlist.m3u8
+#EXTINF:0,Sports.TV Docs
+https://linear-282.frequency.stream/dist/localnow/282/hls/master/playlist.m3u8
+#EXTINF:0,Jai Alai TV
+https://1634133523.rsc.cdn77.org/HLS/JAIALAITV_SCTE.m3u8
+#EXTINF:0,The Rugby Network
+https://1978425394.rsc.cdn77.org/HLS/TRN_SCTE.m3u8
+#EXTINF:0,World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/95.m3u8
+#EXTINF:0,Poker Night in America
+https://d2ac29vaob351i.cloudfront.net/scheduler/scheduleMaster/216.m3u8
+#EXTINF:0,PokerGo
+https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8
+#EXTINF:0,Cornhole TV
+https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV_SCTE.m3u8
+#EXTINF:0,Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:0,World Billiards TV
+https://22e6c1b73ed34fd09b19cd2928813cb4.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_WorldBilliardsTV/playlist.m3u8?ads.wurl_channel=967&ads.wurl_name=WorldBilliardsTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Kozoom TV
+https://kozoom-tv-local-now.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/manifest.m3u8
+#EXTINF:0,Bleav
+https://linear-477.frequency.stream/dist/localnow/477/hls/master/playlist.m3u8
+#EXTINF:0,Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:0,IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:0,Professional Fighters League
+https://ed8cc565.wurl.com/TG9jYWxOb3dfUEZMTU1BX0hMUw/playlist.m3u8?ads.wurl_channel=1309&ads.wurl_name=PFLMMA&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,MMA TV
+https://ov.ottera.tv/live/master.m3u8?channel=mma_mm
+#EXTINF:0,XFC MMA
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:0,Wrestling Legends Network
+https://d3e900fnvjyq99.cloudfront.net/d/1CIDYH7G7A27TH2U0I3B/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657341
+#EXTINF:0,Boxing Spotlight
+https://d3e900fnvjyq99.cloudfront.net/d/WNCE8C10FG01RAKKOVGL/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657323
+#EXTINF:0,FightTV Plus
+https://d3e900fnvjyq99.cloudfront.net/d/LZCA1RPYH8HB27MNZV83/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657301
+#EXTINF:0,Wrestling Spotlight
+https://d3e900fnvjyq99.cloudfront.net/d/GU9SBF4NN5RQR7N71EUM/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657318
+#EXTINF:0,Boxing TV
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8
+#EXTINF:0,BritBash
+https://d3e900fnvjyq99.cloudfront.net/d/66LZZAINWXSZ0ASYHMUG/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657322
+#EXTINF:0,FITE 24/7
+https://db0ae21771a14e33882128cc35889015.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_FITE247/playlist.m3u8?ads.wurl_channel=1050&ads.wurl_name=FITE247&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,The Grappling Network
+https://d15g7z5n3epv7t.cloudfront.net/scheduler/scheduleMaster/236.m3u8
+#EXTINF:0,Pro Wrestling TV
+https://ov.ottera.tv/live/master.m3u8?channel=ptv_pw
+#EXTINF:0,People Are Awesome
+https://linear-197.frequency.stream/dist/localnow/197/hls/master/playlist.m3u8
+#EXTINF:0,Unreel
+https://8b514f6b0ccc4a638371f296c465b1bc.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_Unreel/playlist.m3u8?ads.wurl_channel=1051&ads.wurl_name=Unreel&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Fuel TV
+https://712ce36d120442aeb7109be2bf006216.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_FuelTV/playlist.m3u8?ads.wurl_channel=1126&ads.wurl_name=FuelTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+#EXTINF:0,Slopes TV
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/SlopesTV/index-slopestv.m3u8
+#EXTINF:0,Horse and Country
+https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
+#EXTINF:0,Waypoint TV
+https://amg00381-waypointcommuni-waypointtv-localnow-yukrz.amagi.tv/master.m3u8
+#EXTINF:0,Outside
+https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8
+#EXTINF:0,Outdoor America
+https://ov.ottera.tv/live/master.m3u8?channel=obs_oa_us
+#EXTINF:0,Carbon TV
+https://amg01570-carbontv-carbontv-localnow-i7zkx.amagi.tv/playlist.m3u8
+#EXTINF:0,Wired2Fish
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:0,Pursuit Up
+https://linear-205.frequency.stream/dist/localnow/205/hls/master/playlist.m3u8
+#EXTINF:0,OSC+
+https://osc-plus-local-now.evrideo.tv/7209b0e6-3e61-43dc-8574-2a091d5c8e60_1000016065_HLS/master.m3u8
+#EXTINF:0,NHRA TV
+https://ov.ottera.tv/live/master.m3u8?channel=prl_nh
+#EXTINF:0,Motorvision
+https://ov.ottera.tv/live/master.m3u8?channel=mvg_mv
+#EXTINF:0,MotorRacing
+http://a.jsrdn.com/broadcast/j7h4gFbd4/%2B0700/c.m3u8
+#EXTINF:0,Racing America
+https://racingamerica-localnow.amagi.tv/playlist.m3u8
+#EXTINF:0,Volty TV
+https://ov.ottera.tv/live/master.m3u8?channel=vty_vt
+#EXTINF:0,MotoAmerica
+https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
+#EXTINF:0,MavTV Select
+https://5b14bd5e40c94f9abb43a73002bc9509.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_MavTVSelect/playlist.m3u8?ads.wurl_channel=303&ads.wurl_name=MavTVSelect&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Auto Allstars
+https://bbf0f65f39ba4cd98c804c6fdd4de041.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_AutoAllStars/playlist.m3u8?ads.wurl_channel=1164&ads.wurl_name=AutoAllStars&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Texas Varsity TV
+https://1587221385.rsc.cdn77.org/HLS/TEXAS-HSSN_SCTE.m3u8
+#EXTINF:0,Bleav Football
+https://linear-493.frequency.stream/dist/sportstv/493/hls/master/playlist.m3u8
+#EXTINF:0,holr Sports
+https://hls.showfer.com/stream/62f14e73eee46583d7653a0e/airy.m3u8
+#EXTINF:0,Rotana Cinema
+https://81af74f07a9843399239a3f486837ee7.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_RotanaCinema/playlist.m3u8?ads.wurl_channel=1108&ads.wurl_name=RotanaCinema&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Rotana Classic
+https://c51d842875434dfc85fd5ce343ea0469.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_RotanaClassic/playlist.m3u8?ads.wurl_channel=1107&ads.wurl_name=RotanaClassic&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Rotana Drama
+https://d03ccc293cd1446da986d2dc69552a88.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_RotanaDrama/playlist.m3u8?ads.wurl_channel=1106&ads.wurl_name=RotanaDrama&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Rotana Music
+https://fa1bd01ffdd94cb7971da375b2d236e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_RotanaMusic/playlist.m3u8?ads.wurl_channel=1111&ads.wurl_name=RotanaMusic&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Demand Africa
+https://demadafrica-localnow.amagi.tv/index.m3u8
+#EXTINF:0,AfroLand TV
+https://alt-al.otteravision.com/alt/al/al.m3u8
+#EXTINF:0,X2DTV
+https://d3e900fnvjyq99.cloudfront.net/d/27YWWI86V346DDPNO9NL/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657294
+#EXTINF:0,Yebo.Live
+https://d3e900fnvjyq99.cloudfront.net/d/V2WZIMN99U7VQIX4Z1NZ/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657321
+#EXTINF:0,BLK Cinema Network
+https://d3e900fnvjyq99.cloudfront.net/d/L6ZVW2TK3KFOZDAA5BCM/hls3/now_-1m_15s/m.m3u8?ads.vast_id=670518
+#EXTINF:0,Mubeat
+https://2313427501334b92a1a9e71318ef5ddf.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_MuBeat/playlist.m3u8?ads.wurl_channel=1101&ads.wurl_name=MuBeat&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,New KMovies
+https://e6391536675d4e7f8ce0c849732f33b5.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Rakuten Viki
+https://20496800c7e44ad3b32396a7f42c8ada.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,NEW KFOOD
+https://311597f55ba04d558148c56b94311f36.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_NewKFOOD/playlist.m3u8?ads.wurl_channel=1100&ads.wurl_name=NewKFOOD&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,NEW KPOP
+https://6cc6409c8b63466c9c6e158cc67e9f59.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_NewKPop/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKPop&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,YG TV
+https://84b3aa8b205045a893914bd3ae94bb9b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_YGTV/playlist.m3u8?ads.wurl_channel=900&ads.wurl_name=YGTV&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,OnDemand China
+https://83df25838bec4c678d5035236eb321b1.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_OnDemandChina/playlist.m3u8?ads.wurl_channel=899&ads.wurl_name=OnDemandChina&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D
+#EXTINF:0,Trace Brazuca
+https://d3e900fnvjyq99.cloudfront.net/d/SAQVMS82IPG72KHCNX9E/SmR77z5V11S8PUJxydj6GQfO.m3u8?ads.vast_id=668372
